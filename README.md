@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nousiaso (Orestis Nousias), a PhD in genomics. My area of research is computational biology, evolutionary genomics with a strong interest in evolutionary modeling, population and speciation genomics and the advancement of understanding of complex evolutionary phenomena
-- 🌱 I’m currently working with Associate Professor Yanbin Yin, University of Nebraska in computational biology - evolutionary genomics in Zygnema and tropical fruit genomes. 
-- 💞️ I’m looking to collaborate on any field in evolutionary genomics or evolutionary modeling using neural networks in a machine learning context
+- 👋 Hi, I’m @nousiaso (Orestis Nousias), a PhD in genomics. My area of research is computational biology, evolutionary genomics with a strong interest in evolutionary modeling, population and speciation genomics and the advancement of understanding of complex evolutionary phenomena. My main research direction is cancer -omics and evolution
+- I’m currently a post-doctoral research associate at tha lab of Professor Jeffrey Townsend at Yale School of Public Health, Biostatistics Department, working on cancer evolution and other cancer-related projects. 
 - 📫 How to reach me nousiaso@yahoo.com
 
 <!---
