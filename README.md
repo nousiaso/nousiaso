@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nousiaso (Orestis Nousias), a PhD in genomics/genetics and Computational biology/. My main research direction is cancer biology
+- 👋 Hi, I’m @nousiaso (Orestis Nousias), a PhD in genomics/genetics and Computational biology. My main research direction is cancer biology
 - I’m currently a post-doctoral research associate at the lab of Professor Jesper B Andersen at University of Copenhagen Biotech Research and Innovation Center (BRIC), working on liver cancer. 
 - 📫 How to reach me nousiaso@yahoo.com
 
